@@ -13,4 +13,4 @@ En este artículo voy a explicar cómo crear un programa en Java que realice las
 
 - El programa se conectará a una base de datos MySQL donde se almacenará toda la información del sistema.
 
-Para realizar este programa se necesitará tener instalado el JDK de Java, el IDE Eclipse y el gestor de base de datos MySQL Workbench. A continuación se detallan los pasos para crear el programa desde cero:
+
